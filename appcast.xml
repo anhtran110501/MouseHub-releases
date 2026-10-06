@@ -3,6 +3,18 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.2</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 08:36:16 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.2</h2>
+<ul><li>Fix: when Mouse Hub finds a new version in the background, the update window now appears reliably.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.2/MouseHub-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="mvm0VB5EzoPJi7hXArpEozBMvHuba8Xuq1pGT4RHn5JJ2FZGDSERkTbY0kh89kOOGIdE3FmfrcW5Hsx2mTDQDg==" length="3234204"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.1</title>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
