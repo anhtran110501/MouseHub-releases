@@ -3,6 +3,23 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.5</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 10:49:14 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.5</h2>
+<ul>
+<li>A guide to Mouse Hub: right after this update, and the first time Mouse Hub opens on a new Mac, it shows what Mouse Hub does, helps you turn on its two permissions, then walks you through the window step by step. You can try each feature as you go, and skip at any time.</li>
+<li>Open the guide again any time from the new “?” button next to the layout button, or from Help → Mouse Hub Guide. You can replay all of it or just one part.</li>
+<li>Hover over any button or setting to see a short note on what it does.</li>
+<li>The update banner now fits the narrow window.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.5/MouseHub-0.2.5.dmg" type="application/octet-stream" sparkle:edSignature="cIb7DmeBUiz9DSnx/0DBrrMB3e2SqHt/pj9Qg812Sdrp+7+gQM2oYi0LlG5SKNAnsBI/8Fi8taq4k6k3CCrRDQ==" length="3428459"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.4</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
