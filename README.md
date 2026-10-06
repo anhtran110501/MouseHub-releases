@@ -24,6 +24,21 @@ Mouse Hub isn't notarized by Apple, so macOS (15 and later, including macOS 27) 
 
 _A screenshot of these steps will be added here._
 
+### If Mouse Hub doesn't open
+
+If nothing appears after the steps above (the icon bounces or nothing happens), do this once:
+
+1. Quit Mouse Hub if it's running: Apple menu → **Force Quit…** → Mouse Hub.
+2. Open **Terminal** and run:
+
+   ```
+   xattr -cr "/Applications/Mouse Hub.app"
+   ```
+
+3. Open Mouse Hub from Applications again. If it still hangs, restart the Mac and try once more.
+
+Updates installed by Mouse Hub itself never need this again.
+
 ### Permissions
 
 Mouse Hub shows cards for **Accessibility** and **Input Monitoring**. Click each card's button, turn on **MouseHubHelper** in the list that opens, then come back to Mouse Hub.
@@ -57,6 +72,21 @@ Mouse Hub chưa được Apple công chứng (notarize), nên macOS (từ bản 
 3. macOS hỏi lại một lần nữa: bấm **Open Anyway** (Vẫn mở) lần nữa, rồi nhập mật khẩu máy hoặc dùng Touch ID.
 
 _Ảnh chụp màn hình các bước này sẽ được bổ sung sau._
+
+### Nếu Mouse Hub không mở được
+
+Nếu đã làm các bước trên mà vẫn không thấy gì (biểu tượng nảy lên rồi thôi, hoặc không có phản ứng), làm một lần như sau:
+
+1. Nếu Mouse Hub đang chạy thì thoát hẳn: menu Apple → **Force Quit…** (Buộc thoát) → Mouse Hub.
+2. Mở **Terminal** và chạy:
+
+   ```
+   xattr -cr "/Applications/Mouse Hub.app"
+   ```
+
+3. Mở lại Mouse Hub trong Applications. Nếu vẫn kẹt, khởi động lại máy rồi thử thêm một lần.
+
+Các bản cập nhật do Mouse Hub tự cài sau này không cần làm lại bước này.
 
 ### Cấp quyền
 
