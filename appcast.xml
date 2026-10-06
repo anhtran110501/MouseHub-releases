@@ -2,5 +2,23 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Mouse Hub</title>
+    <item>
+      <title>Mouse Hub 0.2.0</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 06 Oct 2026 08:15:36 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.0</h2>
+<p>The first public release.</p>
+<ul>
+<li><b>Per-mouse profiles</b> — each mouse gets its own Scroll, Buttons, Chords and per-app settings. Profiles are created automatically when a new mouse is used, and work with two mice at once.</li>
+<li><b>Wider speed range</b> — the Speed slider goes from 0.10× to 4.00× on a proportional scale.</li>
+<li><b>Compact horizontal layout</b> — the window widens only when Buttons or Chords need it.</li>
+<li><b>Automatic updates</b> — Mouse Hub checks daily and asks before installing; also Mouse Hub → Check for Updates…</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.0/MouseHub-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="KxPQFGL9uYWy+6kEC3hhInmS0FtuiNel4HaXdUoLeGezDe9zTP/3QwHXR8WP0JZAaNBQsk4eOuL9P8quaEzLBA==" length="3232750"/>
+    </item>
   </channel>
 </rss>
