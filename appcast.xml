@@ -3,6 +3,20 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.9</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 07 Oct 2026 08:11:46 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.9</h2>
+<ul>
+<li>Switching Spaces with a very fast drag no longer shoots the Space across: the swipe follows your hand up to a steady top speed.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.9/MouseHub-0.2.9.dmg" type="application/octet-stream" sparkle:edSignature="B1jqfZ3P/D4fzZvo8ieEgbC/9/ilrMC++FvUr8CsFmHqgRM2GoOM3gWqDByRU7uT9Iv2GThS64uJfg8g5aapDQ==" length="3724525"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.8</title>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
