@@ -3,6 +3,21 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.11</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 08 Oct 2026 17:07:26 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.11</h2>
+<ul>
+<li>Scrolling with Control, Command, Option or Shift held now follows your Invert settings too, so a modified scroll (and Command-scroll zoom) goes the same way as a plain one.</li>
+<li>Hardware tab (beta): the Rapoo MT760's DPI button now shows in the app within about two seconds.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.11/MouseHub-0.2.11.dmg" type="application/octet-stream" sparkle:edSignature="hJiizp7txyb956EM6S7mLaKEJlYnEr8wyb34Pqb/Par8uBGQbdqlq+2eWW7NxN3DC38YzdXWsGUWW00+1OPZBQ==" length="4513889"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.10</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
