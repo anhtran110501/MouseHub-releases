@@ -3,6 +3,21 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.10</title>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 08 Oct 2026 05:32:10 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.10</h2>
+<ul>
+<li>Hardware tab (beta): low-battery notification, and a cleaner polling rate and DPI layout.</li>
+<li>New: Help → Collect Mouse Info… (also in the ? menu) saves a report about your connected mice, to send to the developer when you'd like support for a new mouse. It only reads from the mice.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.10/MouseHub-0.2.10.dmg" type="application/octet-stream" sparkle:edSignature="HH9koEROmbL/xV/4x3WjEkagE9juVwiaK8MvTEHbaCVEjLvIopamFQ1+e9c8+L6oFvjcHzAxKsdXx38hCTHMDA==" length="4504448"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.9</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
