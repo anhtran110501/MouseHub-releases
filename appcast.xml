@@ -3,6 +3,21 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.13</title>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 09 Oct 2026 07:26:37 GMT</pubDate>
+      <description><![CDATA[
+<h2>Mouse Hub 0.2.13</h2>
+<ul>
+<li>Per-app settings now follow the app under the pointer, not just the app in front: scroll over another app's window (on any display) and it uses that app's settings, without clicking it first. Buttons and chords do the same.</li>
+<li>Fixed: Mouse Hub could stop working after opening a different copy of the app.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.13/MouseHub-0.2.13.dmg" type="application/octet-stream" sparkle:edSignature="HG138Z7JNW3tJ51LyAN0+YnwIBHQaqCdNuAfAnSDz2DL52od4lJfu4ZRvYg/vpi0uMD0jdYvCn63t1pIMwkJCA==" length="4529808"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.12</title>
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
