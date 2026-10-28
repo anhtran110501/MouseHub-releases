@@ -3,6 +3,20 @@
   <channel>
     <title>Mouse Hub</title>
     <item>
+      <title>Mouse Hub 0.2.15</title>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 09:31:18 GMT</pubDate>
+      <description><![CDATA[
+<ul>
+<li>New: hold Control, Command, Option or Shift while scrolling to use Hyper scroll, Precise scroll, slow/fast/horizontal scrolling, zoom, tab switching or your own actions (Scroll tab → Modifier keys). Each key can differ per mouse and per app; Default keeps the app's own behaviour.</li>
+<li>A key's Hyper or Precise also speeds up or refines a held button's scroll mode (for example Back + Control scrolls sideways at Hyper speed).</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/anhtran110501/MouseHub-releases/releases/download/v0.2.15/MouseHub-0.2.15.dmg" type="application/octet-stream" sparkle:edSignature="wf9brSe71sGknzQY85gHf+YMtHoZVbrtzBOmczRu6vEuXArVFESGRcjZ20uc9bI5I8bXOuQMjEzWRiqsGvGtCQ==" length="4716426"/>
+    </item>
+    <item>
       <title>Mouse Hub 0.2.14</title>
       <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
